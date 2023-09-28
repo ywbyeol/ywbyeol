@@ -1,16 +1,19 @@
 <div align="center">
-<h1>👋Hi there, thank you for visiting my GitHub profile!</h1>
-<p>😊I'm ywbyeol, a junior developer studying in South Korea.</p>
-<p>🎮I am learning while feeling great pleasure in building my new technical stacks, just like raising a game character.</p>
-<p>📚Currently, I am working on improving my <a href="https://developer.mozilla.org/ko/docs/Web/JavaScript">vanilla JavaScript</a> and <a href="https://www.typescriptlang.org/">TypeScript</a> skills. I aim to become a full-stack developer someday.</p>
-<p>💕All stars and comments for my repository and all kinds of contact with me are welcome!</p>
+  
+# 👋 Hi there, thank you for visiting my GitHub profile!
 
-  ## Solved.ac
- </a>
- 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ywbyeol)](https://solved.ac/ywbyeol)<br/>
+😊 I'm ywbyeol, a junior developer studying in South Korea.
 
-<br/><br/><br/>
+🎮 I get a lot of joy out of building my new technical skill stack, much like I do when I'm growing a character in an RPG game.
 
+📚 Currently, I've been fascinated by the [Rust-lang](https://www.rust-lang.org/) and am studying it to use it as my primary language instead of Javascript.
+
+💕 All stars and comments for my repository and all kinds of contact with me are welcome!
+
+## Solved.ac
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ywbyeol)](https://solved.ac/ywbyeol)
+
+📝 I study algorithms mainly through [Baekjoon](https://www.acmicpc.net/user/ywbyeol/) problems and aim to solve at least 1 problem per day.
 
 </div>
