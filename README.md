@@ -14,6 +14,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ywbyeol)](https://solved.ac/ywbyeol)
 
-📝 I study algorithms mainly through [Baekjoon](https://www.acmicpc.net/user/ywbyeol/) problems and aim to solve at least 1 problem per day.
+📝 I study algorithms mainly through [Baekjoon](https://www.acmicpc.net/) problems and aim to solve at least 1 problem per day.
 
 </div>
